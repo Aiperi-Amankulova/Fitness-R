@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Fitness-S</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="next">Next</string>
+
+    <string name="monitor">Monitor health and calories</string>
+    <string name="blood">Improves blood circulation and keeps fit</string>
+    <string name="life">Live a bright life!</string>
 </resources>
